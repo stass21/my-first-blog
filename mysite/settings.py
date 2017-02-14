@@ -25,7 +25,7 @@ SECRET_KEY = '1^rnu%ehim)pj2_y_&i3d%!72iyee)drx=5&2c7gom)a_$ijyb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['www.stass21.pythonanywhere.com','stass21.pythonanywhere.com']
 
 
 # Application definition
