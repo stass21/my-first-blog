@@ -1,5 +1,0 @@
-'*.pyc'
-'__pycache__'
-'myEnv'
-'db.sqlite3'
-'.DS_Store'
